@@ -3,8 +3,6 @@
  *  
  * Written by Nicholas Chan
  *  
- * g++ -std=c++14 -o ./minesweeper ./minesweeper.cpp && ./minesweeper
- *  
  * A text based minesweeper game
  * 
  * The board is 1d array of chars where bits
