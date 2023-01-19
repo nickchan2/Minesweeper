@@ -17,7 +17,7 @@
  */
 
 #include <iostream>
-#include "minesweeper.h"
+#include "minesweeper.hpp"
 
 #define MAX_WIDTH 60
 #define MAX_HEIGHT 40
